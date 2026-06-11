@@ -1,0 +1,14 @@
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\bin\Debug\net10.0\LooseRunGuide.exe
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\bin\Debug\net10.0\LooseRunGuide.deps.json
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\bin\Debug\net10.0\LooseRunGuide.runtimeconfig.json
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\bin\Debug\net10.0\LooseRunGuide.dll
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\bin\Debug\net10.0\LooseRunGuide.pdb
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.AssemblyInfoInputs.cache
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.AssemblyInfo.cs
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.csproj.CoreCompileInputs.cache
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.dll
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\refint\LooseRunGuide.dll
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.pdb
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\LooseRunGuide.genruntimeconfig.cache
+C:\Users\alter\source\repos\LooseRunGuide\LooseRunGuide\obj\Debug\net10.0\ref\LooseRunGuide.dll
