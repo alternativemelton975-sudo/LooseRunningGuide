@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alter\\source\\repos\\LooseRunGuide\\LooseRunGuide\\LooseRunGuide.csproj": {}
+    "C:\\Users\\alter\\OneDrive\\Documents\\GitHub\\LooseRunningGuide\\LooseRunGuide.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alter\\source\\repos\\LooseRunGuide\\LooseRunGuide\\LooseRunGuide.csproj": {
+    "C:\\Users\\alter\\OneDrive\\Documents\\GitHub\\LooseRunningGuide\\LooseRunGuide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alter\\source\\repos\\LooseRunGuide\\LooseRunGuide\\LooseRunGuide.csproj",
+        "projectUniqueName": "C:\\Users\\alter\\OneDrive\\Documents\\GitHub\\LooseRunningGuide\\LooseRunGuide.csproj",
         "projectName": "LooseRunGuide",
-        "projectPath": "C:\\Users\\alter\\source\\repos\\LooseRunGuide\\LooseRunGuide\\LooseRunGuide.csproj",
+        "projectPath": "C:\\Users\\alter\\OneDrive\\Documents\\GitHub\\LooseRunningGuide\\LooseRunGuide.csproj",
         "packagesPath": "C:\\Users\\alter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alter\\source\\repos\\LooseRunGuide\\LooseRunGuide\\obj\\",
+        "outputPath": "C:\\Users\\alter\\OneDrive\\Documents\\GitHub\\LooseRunningGuide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

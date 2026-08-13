@@ -1,0 +1,49 @@
+# Binaries and compiled objects
+bin/
+obj/
+*.o
+*.a
+*.so
+
+# Visual Studio related
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Generated files
+*.g.cs
+*.designer.cs
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local environment
+*.local
+*.env
+
+# Build output
+publish/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/settings.json
